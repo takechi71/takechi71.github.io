@@ -1,1 +1,1 @@
-ブログ用
+for blog and portfolio
