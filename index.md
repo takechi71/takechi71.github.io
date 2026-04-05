@@ -9,27 +9,13 @@ header:
 # ここから下の3列カード（Feature Row）の設定
 # image_path に外部の画像生成サービス(placehold.co)を使います
 feature_row:
-  - image_path: https://placehold.co/600x400/00adb5/ffffff/png?text=Daily+AlpacaHack+Writeups
+  - image_path: /assets/images/Daily_AlpacaHack_Writeups.jpg
     alt: "Daily AlpacaHack Writeups"
     title: "Daily AlpacaHack Writeups"
-    excerpt: "Daily AlpacaHackのWriteups"
+    excerpt: "Daily AlpacaHack Writeups"
     url: "/categories/Daily_AlpacaHack_Writeups/" # リンク先（まだページがなくてもOK）
     btn_label: "記事一覧へ"
     btn_class: "btn--primary"
-  - image_path: https://placehold.co/600x400/393e46/ffffff/png?text=Dev+Logs
-    alt: "開発記録"
-    title: "開発記録"
-    excerpt: "開発の記録です。"
-    url: "/categories/development/"
-    btn_label: "記事一覧へ"
-    btn_class: "btn--info"
-  - image_path: https://placehold.co/600x400/eeeeee/393e46/png?text=Badminton
-    alt: "バドミントン"
-    title: "バドミントン"
-    excerpt: "バドミントン"
-    url: "/categories/badminton/"
-    btn_label: "記事一覧へ"
-    btn_class: "btn--success"
 ---
 
 # Welcome to My Blog
